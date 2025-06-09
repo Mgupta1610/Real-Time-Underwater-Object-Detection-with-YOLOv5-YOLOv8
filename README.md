@@ -1,3 +1,6 @@
+![Feature Importance](assets/IMAGE_LOGO.jpg)
+
+
 # OceanVision: Real-Time Underwater Object Detection
 
 A computer vision project to detect and classify underwater objects in real time using deep learning techniques.
