@@ -1,4 +1,4 @@
-![Feature Importance](assets/IMAGE_LOGO.jpg)
+![Feature Importance](assets/Image_logo.jpg)
 
 
 # OceanVision: Real-Time Underwater Object Detection
